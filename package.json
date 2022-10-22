@@ -1,0 +1,29 @@
+{
+  "name": "nuxt3-app",
+  "version": "1.0.0",
+  "description": "Getting Started with Nuxt 3",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coder-VooOoo/nuxt3-app.git"
+  },
+  "keywords": [
+    "NuxtJS",
+    "V3"
+  ],
+  "author": "Voo Ooo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coder-VooOoo/nuxt3-app/issues"
+  },
+  "homepage": "https://github.com/Coder-VooOoo/nuxt3-app#readme",
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.8"
+  }
+}
